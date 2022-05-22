@@ -1,11 +1,36 @@
 {
-  "posts": [
+  "info": {
+    "author": "gz",
+    "realName": "李择",
+    "version": "1.0"
+  },
+  "note": [
     {
-      "id": 1,
-      "title": "hello"
+      "study": {
+        "alias": "学习",
+        "list": [],
+        "category": {
+          "js": {
+            "alias": "前端",
+            "list": []
+          },
+          "java": {
+            "alias": "java后端",
+            "list": []
+          },
+          "server": {
+            "alias": "服务",
+            "list": []
+          }
+        }
+      },
+      "game": {
+        "alias": "娱乐",
+        "list": []
+      }
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "db"
   }
 }

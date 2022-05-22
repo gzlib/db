@@ -1,9 +1,4 @@
 {
-  "info": {
-    "author": "gz",
-    "realName": "李择",
-    "version": "1.0"
-  },
   "note": [
     {
       "study": {
@@ -31,6 +26,9 @@
     }
   ],
   "profile": {
-    "name": "db"
+    "name": "db",
+    "author": "gz",
+    "realName": "李择",
+    "version": "1.0"
   }
 }

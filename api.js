@@ -1,0 +1,1 @@
+fetch("https://my-json-server.typicode.com/gzlib/db/info")

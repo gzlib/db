@@ -3,7 +3,8 @@
     "name": "db",
     "author": "gz",
     "realName": "李择",
-    "version": "1.0"
+    "version": "1.0",
+    "about":"http://gz_lib.gitee.io/gz/"
   },
   "icon": {
     "btmBar": {

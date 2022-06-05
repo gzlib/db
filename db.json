@@ -7,19 +7,19 @@
   },
   "icon": {
     "btmBar": {
-      home: [
+      "home": [
         "https://www.helloimg.com/images/2022/06/04/ZsdtFo.png",
         "https://www.helloimg.com/images/2022/06/04/ZsdJ2K.png"
       ],
-      template: [
+      "template": [
         "https://www.helloimg.com/images/2022/06/04/ZsdisQ.png",
         "https://www.helloimg.com/images/2022/06/04/Zsdnvt.png"
       ],
-      article: [
+      "article": [
         "https://www.helloimg.com/images/2022/06/04/Zsd4iD.png",
         "https://www.helloimg.com/images/2022/06/04/ZsdAzS.png"
       ],
-      me: [
+      "me": [
         "https://www.helloimg.com/images/2022/06/04/ZsdmKb.png",
         "https://www.helloimg.com/images/2022/06/04/ZsdSBC.png"
       ]

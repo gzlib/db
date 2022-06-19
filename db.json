@@ -3,9 +3,9 @@
     "name": "db",
     "author": "gz",
     "realName": "李智",
-    "phone":"16670148215",
+    "phone": "16670148215",
     "version": "1.0",
-    "logo":"https://www.helloimg.com/images/2022/05/25/ZPEzz0.jpg",
+    "logo": "https://www.helloimg.com/images/2022/05/25/ZPEzz0.jpg",
     "about": "http://gz_lib.gitee.io/gz/"
   },
   "icon": {
@@ -27,6 +27,29 @@
         "https://www.helloimg.com/images/2022/06/04/ZsdSBC.png"
       ]
     },
+
+    "fruit": [
+      "https://www.helloimg.com/images/2022/06/19/ZS8Lcu.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8SVv.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8tyQ.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8Amt.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8spC.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8nXE.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS82Sg.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8HMY.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8b89.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8TpM.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8MoX.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8Om6.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS895P.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8po0.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8cdn.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8wXz.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8dYR.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8NK5.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS802A.png",
+      "https://www.helloimg.com/images/2022/06/19/ZS8zim.png"
+    ],
     "animal": [
       "https://www.helloimg.com/images/2022/06/19/ZS6PgY.png",
       "https://www.helloimg.com/images/2022/06/19/ZS6F9E.png",
